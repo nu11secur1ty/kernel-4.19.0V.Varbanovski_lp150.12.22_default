@@ -1,5 +1,5 @@
 # kernel-4.19.0V.Varbanovski_lp150.12.22_default
-- commands
+- commands for All RHEL distro's ;) ae beeee to gluvuta me...
 ```bash
 rpm -ivh kernel-4.19.0V.Varbanovski_lp150.12.22_default-1.x86_64.rpm
 rpm -ivh kernel-headers-4.19.0V.Varbanovski_lp150.12.22_default-1.x86_64.rpm
