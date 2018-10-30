@@ -11,7 +11,7 @@ telinit 6
 ```
 Original resource: https://github.com/torvalds/linux/tree/master/kernel
 
-Resource: https://github.com/nu11secur1ty/linux
+nu11secur1ty Resource: https://github.com/nu11secur1ty/linux
 
 ----------------------------------------------------------------------------------------
 - V.Varbanovski ready kernel 4.19.0V.Varbanovski_lp150.12.22_default:
