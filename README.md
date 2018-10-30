@@ -10,6 +10,7 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 telinit 6
 ```
 Original resource: https://github.com/torvalds/linux/tree/master/kernel
+
 Resource: https://github.com/nu11secur1ty/linux
 
 ----------------------------------------------------------------------------------------
