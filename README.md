@@ -19,4 +19,5 @@ link: https://drive.google.com/drive/folders/1rMeLuGa1rKCGjMz2e9b7f6r6VttnAibn?f
 -----------------------------------------------------------------------------------------
 
 - How to compile your own kernel.
+
 HOWT0: https://github.com/nu11secur1ty/Compiling-the-Linux-Kernel-the-SUSE-way
