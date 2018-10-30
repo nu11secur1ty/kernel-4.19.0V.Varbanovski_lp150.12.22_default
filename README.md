@@ -9,7 +9,7 @@ rpm -ivh kernel-headers-4.19.0V.Varbanovski_lp150.12.22_default-1.x86_64.rpm
 grub2-mkconfig -o /boot/grub2/grub.cfg
 telinit 6
 ```
-
+Original resource: https://github.com/torvalds/linux/tree/master/kernel
 Resource: https://github.com/nu11secur1ty/linux
 
 ----------------------------------------------------------------------------------------
