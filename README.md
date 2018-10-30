@@ -1,6 +1,6 @@
 # kernel-4.19.0V.Varbanovski_lp150.12.22_default
 
-![]()
+![](https://github.com/nu11secur1ty/kernel-4.19.0V.Varbanovski_lp150.12.22_default/blob/master/Screenshot%20from%202018-10-30%2007-27-47.png)
 
 - commands for All RHEL distro's ;) ae beeee to gluvuta me...
 ```bash
