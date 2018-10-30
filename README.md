@@ -13,6 +13,10 @@ Original resource: https://github.com/torvalds/linux/tree/master/kernel
 
 nu11secur1ty Resource: https://github.com/nu11secur1ty/linux-4.19
 
+***get***kernel:
+```bash
+git clone https://github.com/nu11secur1ty/linux-4.19.git
+```
 ----------------------------------------------------------------------------------------
 - V.Varbanovski ready kernel 4.19.0V.Varbanovski_lp150.12.22_default:
 
