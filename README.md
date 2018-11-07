@@ -26,6 +26,12 @@ link: https://drive.google.com/drive/folders/1rMeLuGa1rKCGjMz2e9b7f6r6VttnAibn?f
 
 -----------------------------------------------------------------------------------------
 
+
+***work_on_kernel_11.06.2018*****SUSE**
+
+- Link: https://github.com/nu11secur1ty/kernel-4.19.0V.Varbanovski_lp150.12.22_default/blob/master/work_on_kernel_11.06.2018/modules.md
+------------------------------------------------------------------------------------------
+
 - How to uninstall your old kernel:
 ```bash
 rpm -qa | grep kernel
