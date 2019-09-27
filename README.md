@@ -42,3 +42,9 @@ zypper remove kernel-default-4.x.xx-lpxxx.xx.x.x86_64
 - How to compile your own kernel.
 
 HOWT0: https://github.com/nu11secur1ty/Compiling-the-Linux-Kernel-the-SUSE-way
+
+- Make defaulr grub.cfg
+```bash
+grub2-mkconfig -o /boot/grub2/grub.cfg
+```
+# Good luck
