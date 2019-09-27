@@ -43,7 +43,7 @@ zypper remove kernel-default-4.x.xx-lpxxx.xx.x.x86_64
 
 HOWT0: https://github.com/nu11secur1ty/Compiling-the-Linux-Kernel-the-SUSE-way
 
-- Make defaulr grub.cfg
+- Make default grub.cfg
 ```bash
 grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
